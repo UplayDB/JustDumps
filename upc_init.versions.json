@@ -4,10 +4,11 @@
 # This is a json list for Inversion and ProductIds (0 means not known/reversed yet)
 # Some version are from steam and some of them from ubi+
 [
-  {"Name":"Orbital Bullet","UplayId":0,"InVersion":33555968},
-  {"Name":"Deadly Days","UplayId":0,"InVersion":33555968},
+  {"Name":"Orbital Bullet","UplayId":2870,"InVersion":33555968},
+  {"Name":"Deadly Days","UplayId":3651,"InVersion":33555968},
   {"Name":"Hungry Shark World","UplayId":5870,"InVersion":33557248},
-  {"Name":"Calico","UplayId":0,"InVersion":33555968},
+  {"Name":"Calico","UplayId":2754,"InVersion":33555968},
+  {"Name":"The Last Friend","UplayId":2063,"InVersion":33555968},
   {"Name":"Tom Clancy's Rainbow Six Siege - Steam","UplayId":1843,"InVersion":33556736},
   {"Name":"Tom Clancy's Rainbow Six Siege TTS - Steam","UplayId":10424,"InVersion":33556736}
 ]
