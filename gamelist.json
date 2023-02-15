@@ -4418,7 +4418,18 @@
       61082,
       61083,
       61343,
-      61344
+      61344,
+      62493,
+      62497,
+      62499,
+      62500,
+      62522,
+      62678,
+      62679,
+      62680,
+      62681,
+      62684,
+      62685
     ],
     "ActivationIds": [
       2771
@@ -26009,5 +26020,35 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": []
+  },
+  {
+    "ProductId": 58558,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      635,
+      2064,
+      2957
+    ],
+    "ActivationIds": [
+      58568
+    ]
+  },
+  {
+    "ProductId": 58568,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      10366,
+      13366,
+      13368,
+      15578,
+      58558
+    ],
+    "ActivationIds": [
+      58568
+    ]
   }
 ]
