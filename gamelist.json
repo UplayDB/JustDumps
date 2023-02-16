@@ -26022,33 +26022,230 @@
     "ActivationIds": []
   },
   {
-    "ProductId": 58558,
-    "ProductType": "Template",
-    "State": "Released",
-    "TargetPartner": "None",
-    "ProductAssociations": [
-      635,
-      2064,
-      2957
-    ],
-    "ActivationIds": [
-      58568
-    ]
-  },
-  {
-    "ProductId": 58568,
+    "ProductId": 11955,
     "ProductType": "BundlePackage",
     "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [
-      10366,
-      13366,
-      13368,
-      15578,
-      58558
+      10547,
+      11971
     ],
     "ActivationIds": [
-      58568
+      11955
+    ]
+  },
+  {
+    "ProductId": 11971,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      569,
+      4212,
+      4213,
+      10716
+    ],
+    "ActivationIds": [
+      11955
+    ]
+  },
+  {
+    "ProductId": 13129,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      4212
+    ],
+    "ActivationIds": [
+      14978
+    ]
+  },
+  {
+    "ProductId": 13130,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      4213
+    ],
+    "ActivationIds": [
+      14978
+    ]
+  },
+  {
+    "ProductId": 13938,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      1875,
+      2265,
+      2266
+    ],
+    "ActivationIds": [
+      16616
+    ]
+  },
+  {
+    "ProductId": 14382,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      3279,
+      4001,
+      4002,
+      4003,
+      4004,
+      4005,
+      4006,
+      4007,
+      4008,
+      4009,
+      4010,
+      4011,
+      4012,
+      4013,
+      4014,
+      4015,
+      4016,
+      4328,
+      4329,
+      4330,
+      4331,
+      4332,
+      4333,
+      4334,
+      4335,
+      5066
+    ],
+    "ActivationIds": [
+      14382
+    ]
+  },
+  {
+    "ProductId": 14975,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      569,
+      5014
+    ],
+    "ActivationIds": [
+      14978
+    ]
+  },
+  {
+    "ProductId": 14978,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      10547,
+      13129,
+      13130,
+      14975
+    ],
+    "ActivationIds": [
+      14978
+    ]
+  },
+  {
+    "ProductId": 15657,
+    "ProductType": "Game",
+    "State": "Downloadable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": [
+      62459
+    ]
+  },
+  {
+    "ProductId": 16002,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      410
+    ],
+    "ActivationIds": [
+      16004
+    ]
+  },
+  {
+    "ProductId": 16004,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      16002
+    ],
+    "ActivationIds": [
+      16004
+    ]
+  },
+  {
+    "ProductId": 16037,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      3279
+    ],
+    "ActivationIds": [
+      16228
+    ]
+  },
+  {
+    "ProductId": 16228,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      12776,
+      12777,
+      16037
+    ],
+    "ActivationIds": [
+      16228
+    ]
+  },
+  {
+    "ProductId": 16616,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      13938
+    ],
+    "ActivationIds": [
+      16616
+    ]
+  },
+  {
+    "ProductId": 16935,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "EpicGames",
+    "ProductAssociations": [
+      5613
+    ],
+    "ActivationIds": [
+      16935
+    ]
+  },
+  {
+    "ProductId": 62459,
+    "ProductType": "Template",
+    "State": "Downloadable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      15657
+    ],
+    "ActivationIds": [
+      62459
     ]
   }
 ]
