@@ -26247,5 +26247,255 @@
     "ActivationIds": [
       62459
     ]
+  },
+  {
+    "ProductId": 3037,
+    "ProductType": "Game",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5565,
+      5566,
+      5567,
+      5568,
+      15103,
+      19029,
+      19030,
+      19031,
+      19032,
+      19033,
+      19034,
+      60567,
+      60568,
+      60569,
+      60570,
+      60572,
+      60573,
+      60574,
+      60575,
+      60576,
+      60577,
+      60578,
+      60579,
+      60580,
+      60581,
+      60582,
+      60583,
+      61782,
+      62812
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 5565,
+    "ProductType": "Consumable",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 5566,
+    "ProductType": "Consumable",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 5567,
+    "ProductType": "ConsumablePacks",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5565
+    ],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 5568,
+    "ProductType": "ConsumablePacks",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5566
+    ],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 15020,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      3037
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 15022,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60567,
+      60568,
+      60569,
+      60570,
+      60572,
+      60573,
+      60574,
+      60575,
+      60576,
+      60577,
+      60578,
+      60579,
+      60580,
+      61782
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 15103,
+    "ProductType": "AddOn",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19029,
+    "ProductType": "Consumable",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19030,
+    "ProductType": "Consumable",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19031,
+    "ProductType": "Consumable",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19032,
+    "ProductType": "ConsumablePacks",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      19029
+    ],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19033,
+    "ProductType": "ConsumablePacks",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      19030
+    ],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 19034,
+    "ProductType": "ConsumablePacks",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      19031
+    ],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 60581,
+    "ProductType": "AddOn",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
+  },
+  {
+    "ProductId": 60582,
+    "ProductType": "AddOn",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 60583,
+    "ProductType": "AddOn",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 60849,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60583
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 60850,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      60582
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 62760,
+    "ProductType": "BundlePackage",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      15020,
+      15022,
+      60849,
+      60850
+    ],
+    "ActivationIds": [
+      62760
+    ]
+  },
+  {
+    "ProductId": 62812,
+    "ProductType": "AddOn",
+    "State": "Unavailable",
+    "TargetPartner": "None",
+    "ProductAssociations": [],
+    "ActivationIds": []
   }
 ]
