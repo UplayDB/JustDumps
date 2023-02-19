@@ -26497,5 +26497,56 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": []
+  },
+  {
+    "ProductId": 61715,
+    "ProductType": "Game",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      59659,
+      59660,
+      59661,
+      59662,
+      59663,
+      59664,
+      59665,
+      59666,
+      59667,
+      59668,
+      59669,
+      59670,
+      59671,
+      59672
+    ],
+    "ActivationIds": [
+      61924
+    ]
+  },
+  {
+    "ProductId": 61924,
+    "ProductType": "Template",
+    "State": "Released",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      59659,
+      59660,
+      59661,
+      59662,
+      59663,
+      59664,
+      59665,
+      59666,
+      59667,
+      59668,
+      59669,
+      59670,
+      59671,
+      59672,
+      61715
+    ],
+    "ActivationIds": [
+      61924
+    ]
   }
 ]
