@@ -4333,27 +4333,27 @@
   },
   {
     "ProductId": 62450,
-    "Brand": "Others"
+    "Brand": "Anno"
   },
   {
     "ProductId": 5573,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 5574,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 60586,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 60587,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 60588,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 62638,
@@ -4549,7 +4549,7 @@
   },
   {
     "ProductId": 60850,
-    "Brand": "Others"
+    "Brand": "TS"
   },
   {
     "ProductId": 62916,
@@ -4565,6 +4565,38 @@
   },
   {
     "ProductId": 62929,
+    "Brand": "TS"
+  },
+  {
+    "ProductId": 62602,
+    "Brand": "RS"
+  },
+  {
+    "ProductId": 62605,
+    "Brand": "RS"
+  },
+  {
+    "ProductId": 62662,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62942,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62943,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62944,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62946,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62947,
     "Brand": "Others"
   }
 ]
