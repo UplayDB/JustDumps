@@ -8,6 +8,8 @@
       217
     ],
     "ActivationIds": [
+      13311,
+      17681,
       18034
     ]
   },
@@ -18,6 +20,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      13153,
       18056
     ]
   },
@@ -56,64 +59,80 @@
       2020
     ],
     "ActivationIds": [
+      10537,
+      14918,
       59717
     ]
   },
   {
     "ProductId": 671,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 713,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 714,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 715,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 716,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 717,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 719,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 754,
@@ -150,10 +169,12 @@
   {
     "ProductId": 758,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 791,
@@ -162,6 +183,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      14918,
       59717
     ]
   },
@@ -186,10 +208,12 @@
   {
     "ProductId": 1942,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      14918
+    ]
   },
   {
     "ProductId": 2016,
@@ -228,6 +252,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      14719,
       18036
     ]
   },
@@ -238,7 +263,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -248,7 +276,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -258,7 +289,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -268,7 +302,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -278,7 +315,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -288,7 +328,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -298,7 +341,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -308,7 +354,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -318,7 +367,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -328,7 +380,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -338,7 +393,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -348,7 +406,10 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      15471
+      14734,
+      15471,
+      17825,
+      17827
     ]
   },
   {
@@ -528,10 +589,13 @@
   {
     "ProductId": 13652,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      17407,
+      61867
+    ]
   },
   {
     "ProductId": 13653,
@@ -540,6 +604,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -550,6 +616,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -560,6 +628,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -570,6 +640,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -580,6 +652,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -590,6 +664,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -600,6 +676,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -610,6 +688,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -620,6 +700,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -630,6 +712,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -640,6 +724,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -650,6 +736,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -660,6 +748,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -670,6 +760,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -680,6 +772,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -690,6 +784,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -773,6 +869,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -783,6 +881,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -793,6 +893,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -803,6 +905,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -813,6 +917,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -823,6 +929,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -833,6 +941,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
+      17407,
+      61867,
       62303
     ]
   },
@@ -891,18 +1001,24 @@
   {
     "ProductId": 19028,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      17407,
+      61867
+    ]
   },
   {
     "ProductId": 58881,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      17407,
+      61867
+    ]
   },
   {
     "ProductId": 59717,
@@ -9220,7 +9336,7 @@
   {
     "ProductId": 4865,
     "ProductType": "Game",
-    "State": "PreReleased",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [
       5185,
@@ -10945,7 +11061,7 @@
   {
     "ProductId": 5186,
     "ProductType": "ConsumablePacks",
-    "State": "PreReleased",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [
       5185
@@ -15193,7 +15309,7 @@
   {
     "ProductId": 10424,
     "ProductType": "Game",
-    "State": "PreReleased",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
@@ -23880,7 +23996,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
@@ -23890,16 +24007,19 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
     "ProductId": 59661,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      61924
+    ]
   },
   {
     "ProductId": 59662,
@@ -23908,7 +24028,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
@@ -23918,7 +24039,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
@@ -23928,7 +24050,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
@@ -23938,16 +24061,19 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
     "ProductId": 59666,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      61924
+    ]
   },
   {
     "ProductId": 59667,
@@ -23956,16 +24082,19 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
     "ProductId": 59668,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      61924
+    ]
   },
   {
     "ProductId": 59669,
@@ -23974,24 +24103,29 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
     "ProductId": 59670,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      61924
+    ]
   },
   {
     "ProductId": 59671,
     "ProductType": "AddOn",
-    "State": "Unavailable",
+    "State": "Released",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": []
+    "ActivationIds": [
+      61924
+    ]
   },
   {
     "ProductId": 59672,
@@ -24000,7 +24134,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      60517
+      60517,
+      61924
     ]
   },
   {
@@ -24423,7 +24558,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24433,7 +24569,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24443,7 +24580,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24453,7 +24591,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24463,7 +24602,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24473,7 +24613,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24483,7 +24624,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24493,7 +24635,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24503,7 +24646,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24513,7 +24657,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24523,7 +24668,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24533,7 +24679,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -24543,7 +24690,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
@@ -25392,7 +25540,8 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      16838
+      16838,
+      62760
     ]
   },
   {
