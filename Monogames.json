@@ -1,7 +1,9 @@
 # Skip the first 2 line
 # In PluginDlls place all or possible that dll name of probably connected to any platform (EOS,Steam,Galaxy,Uplay/UbiConnect)
 [
-  {"Name":"UNO","UplayId":3352,"LastKnownManifestId":"197CD10CE9D62FB1D5CFCEA451DC6A7306A9853C","IsStillMono":false,"PluginDlls":[]}
-  {"Name":"Might and Magic X Legacy","UplayId":426,"LastKnownManifestId":"46061BC7282D21805A272C80ACF832E393291C7D","IsStillMono":true,"PluginDlls":["uplay_r1_loader.dll","LegacyRendezVous.dll"]}
-  {"Name":"Hungry Shark World","UplayId":5870,"LastKnownManifestId":"BEAEF332FEA919FF9D8FBC65A58B195383D93CF8","IsStillMono":true,"PluginDlls":["upc_r2_loader.dll","upc_r2_loader64.dll","ubiservices.dll"]}
+  {"Name":"UNO","UplayId":3352,"LastKnownManifestId":"197CD10CE9D62FB1D5CFCEA451DC6A7306A9853C","IsStillMono":false,"PluginDlls":[]},
+  {"Name":"Might and Magic X Legacy","UplayId":426,"LastKnownManifestId":"46061BC7282D21805A272C80ACF832E393291C7D","IsStillMono":true,"PluginDlls":["uplay_r1_loader.dll","LegacyRendezVous.dll"]},
+{"Name":"Hungry Shark World","UplayId":5870,"LastKnownManifestId":"BEAEF332FEA919FF9D8FBC65A58B195383D93CF8","IsStillMono":true,"PluginDlls":["upc_r2_loader.dll","upc_r2_loader64.dll","ubiservices.dll"]},
+  {"Name":"Warpips","UplayId":6139,"LastKnownManifestId":"033C94C96A7C05F7B2AF12B3DE14DF35C8F61C06","IsStillMono":true,"PluginDlls":["upc_r2_loader.dll","steam_api64.dll"]},
+  {"Name":"Lacuna - A Sci-Fi Noir Adventure","UplayId":62022,"LastKnownManifestId":"01692CFE54C02CE5EC0E5C0648FB2FEC190ADD51","IsStillMono":true,"PluginDlls":["upc_r2_loader.dll","Galaxy64.dll","steam_api64.dll"]}
 ]
