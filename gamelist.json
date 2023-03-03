@@ -8,8 +8,6 @@
       217
     ],
     "ActivationIds": [
-      13311,
-      17681,
       18034
     ]
   },
@@ -20,7 +18,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      13153,
       18056
     ]
   },
@@ -59,80 +56,64 @@
       2020
     ],
     "ActivationIds": [
-      10537,
-      14918,
       59717
     ]
   },
   {
     "ProductId": 671,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 713,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 714,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 715,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 716,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 717,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 719,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 754,
@@ -169,12 +150,10 @@
   {
     "ProductId": 758,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 791,
@@ -183,7 +162,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14918,
       59717
     ]
   },
@@ -208,12 +186,10 @@
   {
     "ProductId": 1942,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      14918
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 2016,
@@ -252,7 +228,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14719,
       18036
     ]
   },
@@ -263,10 +238,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -276,10 +248,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -289,10 +258,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -302,10 +268,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -315,10 +278,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -328,10 +288,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -341,10 +298,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -354,10 +308,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -367,10 +318,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -380,10 +328,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -393,10 +338,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -406,10 +348,7 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      14734,
-      15471,
-      17825,
-      17827
+      15471
     ]
   },
   {
@@ -589,13 +528,10 @@
   {
     "ProductId": 13652,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      17407,
-      61867
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 13653,
@@ -604,8 +540,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -616,8 +550,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -628,8 +560,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -640,8 +570,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -652,8 +580,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -664,8 +590,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -676,8 +600,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -688,8 +610,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -700,8 +620,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -712,8 +630,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -724,8 +640,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -736,8 +650,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -748,8 +660,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -760,8 +670,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -772,8 +680,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -784,8 +690,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -869,8 +773,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -881,8 +783,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -893,8 +793,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -905,8 +803,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -917,8 +813,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -929,8 +823,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -941,8 +833,6 @@
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
-      17407,
-      61867,
       62303
     ]
   },
@@ -1001,24 +891,18 @@
   {
     "ProductId": 19028,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      17407,
-      61867
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 58881,
     "ProductType": "AddOn",
-    "State": "Released",
+    "State": "Unavailable",
     "TargetPartner": "None",
     "ProductAssociations": [],
-    "ActivationIds": [
-      17407,
-      61867
-    ]
+    "ActivationIds": []
   },
   {
     "ProductId": 59717,
@@ -15083,7 +14967,7 @@
   {
     "ProductId": 6116,
     "ProductType": "Game",
-    "State": "Released",
+    "State": "Expired",
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
@@ -25278,7 +25162,7 @@
   {
     "ProductId": 61517,
     "ProductType": "Game",
-    "State": "Released",
+    "State": "Expired",
     "TargetPartner": "None",
     "ProductAssociations": [],
     "ActivationIds": [
@@ -25288,7 +25172,7 @@
   {
     "ProductId": 61534,
     "ProductType": "Template",
-    "State": "Released",
+    "State": "Expired",
     "TargetPartner": "None",
     "ProductAssociations": [
       61517
@@ -25439,7 +25323,7 @@
   {
     "ProductId": 61624,
     "ProductType": "Template",
-    "State": "Released",
+    "State": "Expired",
     "TargetPartner": "None",
     "ProductAssociations": [
       6116
