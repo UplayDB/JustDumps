@@ -18273,7 +18273,9 @@
     "TargetPartner": "None",
     "ProductAssociations": [
       62339,
-      62340
+      62340,
+      62619,
+      62620
     ]
   },
   {
@@ -19308,6 +19310,37 @@
       5539,
       5540,
       60478
+    ]
+  },
+  {
+    "ProductId": 16736,
+    "ProductType": "Game",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      17950
+    ]
+  },
+  {
+    "ProductId": 17950,
+    "ProductType": "AddOn",
+    "TargetPartner": "None",
+    "ProductAssociations": []
+  },
+  {
+    "ProductId": 63003,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      16736,
+      17950
+    ]
+  },
+  {
+    "ProductId": 63025,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      15657
     ]
   }
 ]

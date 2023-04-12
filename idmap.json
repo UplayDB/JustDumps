@@ -3809,11 +3809,11 @@
   },
   {
     "ProductId": 16291,
-    "Brand": "Others"
+    "Brand": "RS"
   },
   {
     "ProductId": 16296,
-    "Brand": "Others"
+    "Brand": "RS"
   },
   {
     "ProductId": 16297,
@@ -4081,7 +4081,7 @@
   },
   {
     "ProductId": 58572,
-    "Brand": "Others"
+    "Brand": "RS"
   },
   {
     "ProductId": 58573,
@@ -4373,11 +4373,11 @@
   },
   {
     "ProductId": 62694,
-    "Brand": "Others"
+    "Brand": "RS"
   },
   {
     "ProductId": 62695,
-    "Brand": "Others"
+    "Brand": "RS"
   },
   {
     "ProductId": 62696,
@@ -4409,7 +4409,7 @@
   },
   {
     "ProductId": 62726,
-    "Brand": "Others"
+    "Brand": "Brawlhalla"
   },
   {
     "ProductId": 62728,
@@ -4417,11 +4417,11 @@
   },
   {
     "ProductId": 62660,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62663,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62664,
@@ -4577,7 +4577,7 @@
   },
   {
     "ProductId": 62662,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62942,
@@ -4589,15 +4589,15 @@
   },
   {
     "ProductId": 62944,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62946,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62947,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62949,
@@ -4609,7 +4609,7 @@
   },
   {
     "ProductId": 62954,
-    "Brand": "Others"
+    "Brand": "FH"
   },
   {
     "ProductId": 62958,
@@ -4618,5 +4618,61 @@
   {
     "ProductId": 62959,
     "Brand": "RS"
+  },
+  {
+    "ProductId": 62914,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62915,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62967,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62968,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 62992,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63001,
+    "Brand": "Brawlhalla"
+  },
+  {
+    "ProductId": 63013,
+    "Brand": "FC"
+  },
+  {
+    "ProductId": 63014,
+    "Brand": "FC"
+  },
+  {
+    "ProductId": 63018,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63019,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63035,
+    "Brand": "FC"
+  },
+  {
+    "ProductId": 63040,
+    "Brand": "FH"
+  },
+  {
+    "ProductId": 63042,
+    "Brand": "FH"
+  },
+  {
+    "ProductId": 63043,
+    "Brand": "FH"
   }
 ]
