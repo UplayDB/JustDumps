@@ -4357,7 +4357,7 @@
   },
   {
     "ProductId": 62638,
-    "Brand": "Others"
+    "Brand": "Anno"
   },
   {
     "ProductId": 62640,
@@ -4477,7 +4477,7 @@
   },
   {
     "ProductId": 62742,
-    "Brand": "Others"
+    "Brand": "RR"
   },
   {
     "ProductId": 62743,
@@ -4621,11 +4621,11 @@
   },
   {
     "ProductId": 62914,
-    "Brand": "Others"
+    "Brand": "RC"
   },
   {
     "ProductId": 62915,
-    "Brand": "Others"
+    "Brand": "RC"
   },
   {
     "ProductId": 62967,
@@ -4653,11 +4653,11 @@
   },
   {
     "ProductId": 63018,
-    "Brand": "Others"
+    "Brand": "RC"
   },
   {
     "ProductId": 63019,
-    "Brand": "Others"
+    "Brand": "RC"
   },
   {
     "ProductId": 63035,
@@ -4685,7 +4685,7 @@
   },
   {
     "ProductId": 63098,
-    "Brand": "Others"
+    "Brand": "Brawlhalla"
   },
   {
     "ProductId": 63099,
@@ -4705,6 +4705,74 @@
   },
   {
     "ProductId": 63103,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63109,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63110,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63111,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63112,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63153,
+    "Brand": "Anno"
+  },
+  {
+    "ProductId": 63205,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63206,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63225,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63226,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63227,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63228,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63229,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63230,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63231,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63232,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63234,
+    "Brand": "Others"
+  },
+  {
+    "ProductId": 63235,
     "Brand": "Others"
   }
 ]

@@ -1326,7 +1326,7 @@
   {
     "ProductId": 569,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       3432,
       3512,
@@ -1479,7 +1479,7 @@
   {
     "ProductId": 635,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       2064,
       2161,
@@ -2996,7 +2996,7 @@
   {
     "ProductId": 1771,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       3384,
       3385,
@@ -3051,7 +3051,7 @@
   {
     "ProductId": 1803,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       5023,
       5024,
@@ -3849,7 +3849,7 @@
   {
     "ProductId": 2064,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -4394,7 +4394,7 @@
   {
     "ProductId": 2688,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "EpicGames",
     "ProductAssociations": [
       3367,
       3368,
@@ -4758,7 +4758,7 @@
   {
     "ProductId": 2957,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -5250,13 +5250,13 @@
   {
     "ProductId": 3367,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "EpicGames",
     "ProductAssociations": []
   },
   {
     "ProductId": 3368,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "EpicGames",
     "ProductAssociations": []
   },
   {
@@ -5334,7 +5334,7 @@
   {
     "ProductId": 3385,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -5695,7 +5695,7 @@
   {
     "ProductId": 3539,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       3724,
       4950,
@@ -5970,7 +5970,7 @@
   {
     "ProductId": 3718,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -6054,7 +6054,7 @@
   {
     "ProductId": 3962,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "EpicGames",
     "ProductAssociations": []
   },
   {
@@ -6338,13 +6338,13 @@
   {
     "ProductId": 4212,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 4213,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7242,7 +7242,7 @@
   {
     "ProductId": 5014,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7356,13 +7356,13 @@
   {
     "ProductId": 5046,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5047,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7398,7 +7398,7 @@
   {
     "ProductId": 5059,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       5105,
       5106,
@@ -7489,13 +7489,13 @@
   {
     "ProductId": 5067,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5068,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7587,7 +7587,7 @@
   {
     "ProductId": 5104,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -7797,19 +7797,19 @@
   {
     "ProductId": 5151,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5152,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5153,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -8047,79 +8047,79 @@
   {
     "ProductId": 5197,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5198,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5199,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5200,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5201,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5202,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5203,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5204,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5205,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5206,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5207,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5208,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5209,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -8181,7 +8181,7 @@
   {
     "ProductId": 5215,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -8265,7 +8265,7 @@
   {
     "ProductId": 5241,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -8853,13 +8853,13 @@
   {
     "ProductId": 5347,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5348,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -9109,7 +9109,7 @@
   {
     "ProductId": 5405,
     "ProductType": "Game",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": [
       5490,
       5491,
@@ -9684,91 +9684,91 @@
   {
     "ProductId": 5526,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5527,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5528,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5529,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5530,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5531,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5532,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5533,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5534,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5535,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5536,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5537,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5538,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5539,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 5540,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -10192,7 +10192,7 @@
   {
     "ProductId": 5623,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -11190,7 +11190,7 @@
   {
     "ProductId": 10781,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -11867,10 +11867,13 @@
       5287,
       5288,
       5289,
+      5290,
       5291,
       5292,
       5293,
       5294,
+      5295,
+      5296,
       5297,
       5298
     ]
@@ -14605,13 +14608,13 @@
   {
     "ProductId": 15531,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
     "ProductId": 15532,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -17422,7 +17425,7 @@
   {
     "ProductId": 60478,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -17782,7 +17785,7 @@
   {
     "ProductId": 60863,
     "ProductType": "AddOn",
-    "TargetPartner": "Microsoft",
+    "TargetPartner": "None",
     "ProductAssociations": []
   },
   {
@@ -19577,5 +19580,76 @@
     "ProductType": "AddOn",
     "TargetPartner": "None",
     "ProductAssociations": []
+  },
+  {
+    "ProductId": 4933,
+    "ProductType": "Game",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      5022,
+      5049,
+      5050,
+      5154,
+      5155,
+      5156,
+      5157,
+      5158,
+      5267,
+      5280,
+      5281,
+      5282,
+      5283,
+      5284,
+      5285,
+      5286,
+      5287,
+      5288,
+      5289,
+      5290,
+      5291,
+      5292,
+      5293,
+      5294,
+      5295,
+      5296,
+      5297,
+      5298,
+      12980,
+      14571,
+      15478,
+      15837,
+      16010,
+      18113,
+      18114
+    ]
+  },
+  {
+    "ProductId": 63144,
+    "ProductType": "Template",
+    "TargetPartner": "None",
+    "ProductAssociations": [
+      4933,
+      5280,
+      5281,
+      5282,
+      5283,
+      5284,
+      5285,
+      5286,
+      5287,
+      5288,
+      5289,
+      5290,
+      5291,
+      5292,
+      5293,
+      5294,
+      5295,
+      5296,
+      5297,
+      5298,
+      12980,
+      15478
+    ]
   }
 ]
