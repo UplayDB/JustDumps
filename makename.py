@@ -1,5 +1,7 @@
 import json
 import yaml
+import os.path
+from collections import OrderedDict
 
 prodconf = json.load(open("productconfig.json","r",encoding='utf8'))
 
@@ -29,24 +31,37 @@ for conf in prodconf:
 
 noneIds = []
 skipids = []
-prodToListJson = json.load(open("prodToList.json","r",encoding='utf8'))
+prodToListJson = []
+if (os.path.exists("prodToList.json")):
+    prodToListJson = json.load(open("prodToList.json","r",encoding='utf8'))
 for prod in prodToListJson:
     pid = prod["pid"]
     if pid in id_name:
         name = id_name[pid]
         prod["name"] = name
     skipids.append(pid)
-    if prod["name"] == "None":
-        noneIds.append(int(pid))
 
 for iname in id_name:
     if str(iname) not in skipids:
-        prodToListJson.append({"pid": iname, "name": id_name[iname]})
+        if not prodToListJson.__contains__({"pid": iname, "name": id_name[iname]}):
+            prodToListJson.append({"pid": iname, "name": id_name[iname]})
         if id_name[iname] == "None":
             noneIds.append(iname)
 
+
+L = json.loads(json.dumps(prodToListJson, indent=4, ensure_ascii=False), object_pairs_hook=OrderedDict)
+seen = OrderedDict()
+for d in L:
+    oid = d["pid"]
+    if oid not in seen:
+        seen[oid] = d
+
+outp = []
+for seenv in seen.values():
+    outp.append({"pid": seenv['pid'], "name": seenv['name']})
+
 ptl = open("prodToList.json","w",encoding='utf8')
-ptl.write(json.dumps(prodToListJson, indent=4))
+ptl.write(json.dumps(outp, indent=4, ensure_ascii=True))
 ptl.close()
 
 nnid = open("noneIds.json","w",encoding='utf8')
