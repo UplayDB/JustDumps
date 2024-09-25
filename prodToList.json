@@ -9801,7 +9801,7 @@
     },
     {
         "pid": 64065,
-        "name": "None"
+        "name": "Brawlhalla - BCX 2024 Pack"
     },
     {
         "pid": 64066,
@@ -10273,6 +10273,582 @@
     },
     {
         "pid": 64870,
+        "name": "None"
+    },
+    {
+        "pid": 116,
+        "name": "Assassin's Creed\u00ae III - The Hidden Secrets Pack"
+    },
+    {
+        "pid": 117,
+        "name": "Assassin's Creed\u00ae III - The Battle Hardened Pack"
+    },
+    {
+        "pid": 118,
+        "name": "Assassin's Creed\u00ae III - The Tyranny of King Washington Episode 1: The Infamy"
+    },
+    {
+        "pid": 119,
+        "name": "Assassin's Creed\u00ae III - The Tyranny of King Washington Episode 2: The Betrayal"
+    },
+    {
+        "pid": 120,
+        "name": "Assassin's Creed\u00ae III - The Tyranny of King Washington Episode 3: The Redemption"
+    },
+    {
+        "pid": 128,
+        "name": "Assassin's Creed\u00ae III - Benedict Arnold"
+    },
+    {
+        "pid": 161,
+        "name": "None"
+    },
+    {
+        "pid": 541,
+        "name": "Watch_Dogs"
+    },
+    {
+        "pid": 570,
+        "name": "Watch Dogs Season Pass"
+    },
+    {
+        "pid": 661,
+        "name": "Valiant Hearts"
+    },
+    {
+        "pid": 750,
+        "name": "The Crew (Beta)"
+    },
+    {
+        "pid": 872,
+        "name": "Valiant Hearts: The Great War"
+    },
+    {
+        "pid": 1056,
+        "name": "The Crew Beta"
+    },
+    {
+        "pid": 1057,
+        "name": "The Crew Beta"
+    },
+    {
+        "pid": 1467,
+        "name": "The Crew"
+    },
+    {
+        "pid": 1835,
+        "name": "Tom Clancy's The Division\u2122"
+    },
+    {
+        "pid": 2036,
+        "name": "Tom Clancy's The Division Beta"
+    },
+    {
+        "pid": 2039,
+        "name": "Tom Clancy's The Division - Closed Beta"
+    },
+    {
+        "pid": 2130,
+        "name": "Skull and Bones"
+    },
+    {
+        "pid": 2290,
+        "name": "Tom Clancy's Rainbow Six Siege - Open Beta"
+    },
+    {
+        "pid": 2356,
+        "name": "The Crew Calling All Units - Alpha"
+    },
+    {
+        "pid": 2376,
+        "name": "The Crew Wild Run Beta"
+    },
+    {
+        "pid": 2531,
+        "name": "The Crew"
+    },
+    {
+        "pid": 2916,
+        "name": "For Honor"
+    },
+    {
+        "pid": 3150,
+        "name": "Tom Clancy's The Division"
+    },
+    {
+        "pid": 3179,
+        "name": "Tom Clancy's The Division - Hunter Gear Set"
+    },
+    {
+        "pid": 3360,
+        "name": "UNO"
+    },
+    {
+        "pid": 3428,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands - Season Pass"
+    },
+    {
+        "pid": 3431,
+        "name": "Eagle Flight"
+    },
+    {
+        "pid": 3493,
+        "name": "30th Anniversary - Prince of Persia Sands of Time"
+    },
+    {
+        "pid": 3494,
+        "name": "30th Anniversary - Tom Clancy's Splinter Cell"
+    },
+    {
+        "pid": 3495,
+        "name": "30th Anniversary - Far Cry Blood Dragon"
+    },
+    {
+        "pid": 3496,
+        "name": "30th Anniversary - The Crew"
+    },
+    {
+        "pid": 3497,
+        "name": "30th Anniversary - Rayman Origins"
+    },
+    {
+        "pid": 3498,
+        "name": "30th Anniversary - Beyond Good and Evil"
+    },
+    {
+        "pid": 3499,
+        "name": "30th Anniversary - Assassin's Creed 3"
+    },
+    {
+        "pid": 3559,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands"
+    },
+    {
+        "pid": 3619,
+        "name": "WATCH_DOGS\u00ae 2"
+    },
+    {
+        "pid": 3675,
+        "name": "UNO"
+    },
+    {
+        "pid": 3681,
+        "name": "Steep - Season Pass"
+    },
+    {
+        "pid": 4300,
+        "name": "Watch_Dogs 2 - Zodiac Killer Mission"
+    },
+    {
+        "pid": 4497,
+        "name": "Werewolves Within"
+    },
+    {
+        "pid": 4554,
+        "name": "Anno 1800"
+    },
+    {
+        "pid": 4577,
+        "name": "Watch_Dogs 2"
+    },
+    {
+        "pid": 4682,
+        "name": "Star Trek\u2122: Bridge Crew"
+    },
+    {
+        "pid": 4709,
+        "name": "Watch_Dogs\u00ae 2 - Psychedelic Pack"
+    },
+    {
+        "pid": 4710,
+        "name": "Watch_Dogs\u00ae 2 - Punk Rock Pack"
+    },
+    {
+        "pid": 4712,
+        "name": "Watch_Dogs\u00ae 2 - Urban Artist Pack"
+    },
+    {
+        "pid": 4791,
+        "name": "Werewolves Within"
+    },
+    {
+        "pid": 4812,
+        "name": "Watch_Dogs 2 - Root Access Pack"
+    },
+    {
+        "pid": 4868,
+        "name": "Eagle Flight"
+    },
+    {
+        "pid": 4877,
+        "name": "For Honor - Open Test: Marching Fire"
+    },
+    {
+        "pid": 5000,
+        "name": "WATCH_DOGS\u00ae 2 \u2013 T-Bone Content Bundle"
+    },
+    {
+        "pid": 5037,
+        "name": "The Crew 2"
+    },
+    {
+        "pid": 5087,
+        "name": "Space Junkies"
+    },
+    {
+        "pid": 5159,
+        "name": "Tom Clancy\u2019s The Division 2 - PPS"
+    },
+    {
+        "pid": 5243,
+        "name": "Star Trek: Bridge Crew - The Next Generation"
+    },
+    {
+        "pid": 5245,
+        "name": "None"
+    },
+    {
+        "pid": 5364,
+        "name": "None"
+    },
+    {
+        "pid": 7017,
+        "name": "Watch Dogs: Legion"
+    },
+    {
+        "pid": 7111,
+        "name": "Valiant Hearts: Coming Home"
+    },
+    {
+        "pid": 9032,
+        "name": "UNO - Winter Theme Cards"
+    },
+    {
+        "pid": 10250,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands - Deluxe Edition"
+    },
+    {
+        "pid": 10252,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands - Gold Edition"
+    },
+    {
+        "pid": 10303,
+        "name": "Tom Clancy's Ghost Recon\u00ae Wildlands - Heroes Pack"
+    },
+    {
+        "pid": 10498,
+        "name": "Star Trek: Bridge Crew"
+    },
+    {
+        "pid": 10548,
+        "name": "For Honor - PTS - [STEAM]"
+    },
+    {
+        "pid": 10768,
+        "name": "Monopoly Plus"
+    },
+    {
+        "pid": 10873,
+        "name": "Transference"
+    },
+    {
+        "pid": 10879,
+        "name": "Steep\u2122 - Road to the Olympics"
+    },
+    {
+        "pid": 11123,
+        "name": "Holiday Giveaway - Watch_Dogs 1"
+    },
+    {
+        "pid": 11193,
+        "name": "Holiday Giveaway - World in Conflict: Complete Edition"
+    },
+    {
+        "pid": 11216,
+        "name": "Holiday Giveaway - Assassin's Creed Black Flag"
+    },
+    {
+        "pid": 11232,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege - Year 3 Pass"
+    },
+    {
+        "pid": 11381,
+        "name": "Chinese New Year - Trials Fusion - CN ONLY"
+    },
+    {
+        "pid": 11521,
+        "name": "For Honor\u00ae - Starter Edition"
+    },
+    {
+        "pid": 11534,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege: Starter Edition"
+    },
+    {
+        "pid": 11536,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege: Starter Edition"
+    },
+    {
+        "pid": 11804,
+        "name": "The Crew 2\u00ae - Legendary Motors Pack"
+    },
+    {
+        "pid": 11806,
+        "name": "The Crew\u00ae 2 - Motorsports Deluxe Pack"
+    },
+    {
+        "pid": 11807,
+        "name": "The Crew\u00ae 2 - Season Pass Package"
+    },
+    {
+        "pid": 11811,
+        "name": "The Crew\u00ae 2 - Base Game"
+    },
+    {
+        "pid": 11812,
+        "name": "The Crew\u00ae 2 - Base Game"
+    },
+    {
+        "pid": 11830,
+        "name": "The Crew\u00ae 2"
+    },
+    {
+        "pid": 11834,
+        "name": "The Crew\u00ae 2 - Gold Edition"
+    },
+    {
+        "pid": 11912,
+        "name": "The Division\u00ae 2 - Ultimate Edition"
+    },
+    {
+        "pid": 11914,
+        "name": "The Division\u00ae 2 - The Capitol Defender Pack"
+    },
+    {
+        "pid": 12066,
+        "name": "The Division\u00ae 2 - Base Game"
+    },
+    {
+        "pid": 12116,
+        "name": "Anno\u00ae 1800 - Imperial Pack"
+    },
+    {
+        "pid": 12118,
+        "name": "Anno\u00ae 1800 - Base Game"
+    },
+    {
+        "pid": 12133,
+        "name": "Anno\u00ae 1800"
+    },
+    {
+        "pid": 12290,
+        "name": "Transference"
+    },
+    {
+        "pid": 12330,
+        "name": "The Division\u00ae 2 - Tommy the Teddy Bear ULC"
+    },
+    {
+        "pid": 12332,
+        "name": "Tom Clancy's The Division\u00ae 2 - Private Beta"
+    },
+    {
+        "pid": 12333,
+        "name": "The Division\u00ae 2 - PreOrder Incentives"
+    },
+    {
+        "pid": 12360,
+        "name": "For Honor - Bundle - WW - Digital - Steam - Starter Edition Giveaway"
+    },
+    {
+        "pid": 12766,
+        "name": "Steep\u2122 - X-Games Pass"
+    },
+    {
+        "pid": 13339,
+        "name": "Watch_Dogs - Deluxe Content DLC [STEAM]"
+    },
+    {
+        "pid": 13340,
+        "name": "Tom Clancy's The Division 2 - Private Beta - BMT"
+    },
+    {
+        "pid": 13567,
+        "name": "Far Cry Primal"
+    },
+    {
+        "pid": 13603,
+        "name": "The Division 2 - Giveaway Entitlement"
+    },
+    {
+        "pid": 13610,
+        "name": "Space Junkies\u00ae"
+    },
+    {
+        "pid": 13682,
+        "name": "None"
+    },
+    {
+        "pid": 14262,
+        "name": "None"
+    },
+    {
+        "pid": 14343,
+        "name": "Ghost Recon\u00ae Breakpoint - Ultimate Pack"
+    },
+    {
+        "pid": 14648,
+        "name": "None"
+    },
+    {
+        "pid": 15641,
+        "name": "None"
+    },
+    {
+        "pid": 15642,
+        "name": "watch_dogs Deluxe"
+    },
+    {
+        "pid": 16649,
+        "name": "The Division\u00ae 2 - Warlords of New York Expansion"
+    },
+    {
+        "pid": 17051,
+        "name": "Ubisoft Remote Event"
+    },
+    {
+        "pid": 17053,
+        "name": "None"
+    },
+    {
+        "pid": 58835,
+        "name": "None"
+    },
+    {
+        "pid": 58912,
+        "name": "Anno\u00ae 1800"
+    },
+    {
+        "pid": 59780,
+        "name": "Far Cry 6"
+    },
+    {
+        "pid": 59905,
+        "name": "Riders Republic"
+    },
+    {
+        "pid": 60445,
+        "name": "Tom Clancy's Splinter Cell Chaos Theory"
+    },
+    {
+        "pid": 61244,
+        "name": "The Crew 2"
+    },
+    {
+        "pid": 61412,
+        "name": "Far Cry 4"
+    },
+    {
+        "pid": 61776,
+        "name": "Assassin's Creed Origins"
+    },
+    {
+        "pid": 61792,
+        "name": "Skull and Bones\u2122 - Language Pack 2"
+    },
+    {
+        "pid": 62412,
+        "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint"
+    },
+    {
+        "pid": 62429,
+        "name": "Anno 1800"
+    },
+    {
+        "pid": 62430,
+        "name": "Anno 1800"
+    },
+    {
+        "pid": 62433,
+        "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint"
+    },
+    {
+        "pid": 62434,
+        "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint - Year 1 Pass"
+    },
+    {
+        "pid": 62437,
+        "name": "Tom Clancy's Ghost Recon\u00ae Breakpoint - Ultimate"
+    },
+    {
+        "pid": 62551,
+        "name": "Watch Dogs\u00ae: Legion - Ultimate Edition"
+    },
+    {
+        "pid": 62553,
+        "name": "Watch Dogs\u00ae: Legion - Season Pass"
+    },
+    {
+        "pid": 62799,
+        "name": "Watch Dogs\u00ae: Legion"
+    },
+    {
+        "pid": 62801,
+        "name": "Watch Dogs\u00ae: Legion - Ultimate Pack"
+    },
+    {
+        "pid": 63308,
+        "name": "None"
+    },
+    {
+        "pid": 64027,
+        "name": "Anno 1800 - Cosmetic DLC 15 - PIRATE COVE"
+    },
+    {
+        "pid": 64034,
+        "name": "Skull and Bones\u2122 - Premium Bonus Pack"
+    },
+    {
+        "pid": 64035,
+        "name": "Skull and Bones\u2122 -  Investigation missions pack"
+    },
+    {
+        "pid": 64036,
+        "name": "Skull and Bones\u2122 - Smuggler pass token"
+    },
+    {
+        "pid": 64037,
+        "name": "Skull and Bones\u2122 - Digital collectibles"
+    },
+    {
+        "pid": 64460,
+        "name": "Skull and Bones\u2122"
+    },
+    {
+        "pid": 64463,
+        "name": "Skull and Bones\u2122 - Premium Edition"
+    },
+    {
+        "pid": 64469,
+        "name": "Valiant Hearts: Coming Home"
+    },
+    {
+        "pid": 64560,
+        "name": "None"
+    },
+    {
+        "pid": 64875,
+        "name": "None"
+    },
+    {
+        "pid": 64929,
+        "name": "None"
+    },
+    {
+        "pid": 64930,
+        "name": "None"
+    },
+    {
+        "pid": 64931,
         "name": "None"
     }
 ]
