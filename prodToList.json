@@ -501,7 +501,7 @@
     },
     {
         "pid": 4865,
-        "name": "Tom Clancy's Rainbow Six\u00ae Siege - Test Server"
+        "name": "Tom Clancy's Rainbow Six Siege - Closed Beta"
     },
     {
         "pid": 4932,
@@ -4745,11 +4745,11 @@
     },
     {
         "pid": 8031,
-        "name": "None"
+        "name": "For Honor - Premium Skin - Year 8 Season 4"
     },
     {
         "pid": 8032,
-        "name": "None"
+        "name": "FOR HONOR - HERO CHARACTER Y8S4 - MONGOL"
     },
     {
         "pid": 8033,
@@ -4789,15 +4789,15 @@
     },
     {
         "pid": 8042,
-        "name": "None"
+        "name": "For Honor - Battle Pass - Year 8 Season 4"
     },
     {
         "pid": 8043,
-        "name": "None"
+        "name": "For Honor - Battle Bundle - Year 8 Season 4"
     },
     {
         "pid": 8044,
-        "name": "None"
+        "name": "For Honor - Legacy Pass Y4S4 - Year 8 Season 4"
     },
     {
         "pid": 9018,
@@ -9717,7 +9717,7 @@
     },
     {
         "pid": 63952,
-        "name": "None"
+        "name": "Rainbow Six Siege - Y9S4 Premier Pack"
     },
     {
         "pid": 63965,
@@ -9805,7 +9805,7 @@
     },
     {
         "pid": 64066,
-        "name": "None"
+        "name": "Brawlhalla - Battle Pass 5 Classic"
     },
     {
         "pid": 64078,
@@ -9821,7 +9821,7 @@
     },
     {
         "pid": 64085,
-        "name": "None"
+        "name": "The Crew Orlando - Year Two Pass"
     },
     {
         "pid": 64089,
@@ -9869,7 +9869,7 @@
     },
     {
         "pid": 64129,
-        "name": "None"
+        "name": "Brawlhalla - Deluxe Upgrade Battle Pass 5 Classic"
     },
     {
         "pid": 64137,
@@ -10265,11 +10265,11 @@
     },
     {
         "pid": 64769,
-        "name": "None"
+        "name": "Tom Clancy's The Division 2 - Shades of Red"
     },
     {
         "pid": 64770,
-        "name": "None"
+        "name": "Tom Clancy's The Division 2 - Augury Pack"
     },
     {
         "pid": 64870,
@@ -10850,5 +10850,1193 @@
     {
         "pid": 64931,
         "name": "None"
+    },
+    {
+        "pid": 55,
+        "name": "Driver: San Francisco"
+    },
+    {
+        "pid": 56,
+        "name": "Assassin's Creed II"
+    },
+    {
+        "pid": 57,
+        "name": "Assassin's Creed\u00ae Brotherhood"
+    },
+    {
+        "pid": 59,
+        "name": "Assassin's Creed\u00ae Revelations"
+    },
+    {
+        "pid": 60,
+        "name": "Might & Magic Heroes VI"
+    },
+    {
+        "pid": 62,
+        "name": "Tom Clancy\u2019s H.A.W.X\u00ae 2"
+    },
+    {
+        "pid": 71,
+        "name": "Anno 2070"
+    },
+    {
+        "pid": 101,
+        "name": "Far Cry\u00ae 3"
+    },
+    {
+        "pid": 102,
+        "name": "Assassin's Creed\u00ae III"
+    },
+    {
+        "pid": 122,
+        "name": "H.A.W.X 2 - All-in-One DLC Pack"
+    },
+    {
+        "pid": 316,
+        "name": "Far Cry\u00ae 3 Blood Dragon"
+    },
+    {
+        "pid": 418,
+        "name": "RAYMAN\u00ae LEGENDS"
+    },
+    {
+        "pid": 419,
+        "name": "RAYMAN\u00ae LEGENDS Demo"
+    },
+    {
+        "pid": 425,
+        "name": "Flashback Demo"
+    },
+    {
+        "pid": 437,
+        "name": "Assassin's Creed\u00ae IV Black Flag\u2122"
+    },
+    {
+        "pid": 802,
+        "name": "Child of Light Demo"
+    },
+    {
+        "pid": 834,
+        "name": "Trials Fusion Demo"
+    },
+    {
+        "pid": 918,
+        "name": "None"
+    },
+    {
+        "pid": 1123,
+        "name": "BASTILLE PACK"
+    },
+    {
+        "pid": 1125,
+        "name": "ALL RETAILERS PACK"
+    },
+    {
+        "pid": 1296,
+        "name": "Assassin's Creed\u00ae Unity"
+    },
+    {
+        "pid": 1536,
+        "name": "Far Cry\u00ae 4"
+    },
+    {
+        "pid": 2024,
+        "name": "Trackmania Turbo"
+    },
+    {
+        "pid": 2301,
+        "name": "Rainbow Six PC"
+    },
+    {
+        "pid": 2639,
+        "name": "Rainbow Six Siege - Standard Edition"
+    },
+    {
+        "pid": 2945,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege - 600 Credits Pack"
+    },
+    {
+        "pid": 3023,
+        "name": "Tom Clancy's The Division "
+    },
+    {
+        "pid": 3093,
+        "name": "Tom Clancy's The Division - Hazmat Gear Set"
+    },
+    {
+        "pid": 3277,
+        "name": "Trackmania Turbo - Free Trial"
+    },
+    {
+        "pid": 3949,
+        "name": "Ghost Recon Future Soldier Deluxe Edition"
+    },
+    {
+        "pid": 3952,
+        "name": "Splinter Cell Blacklist Deluxe Edition"
+    },
+    {
+        "pid": 3953,
+        "name": "Splinter Cell Conviction"
+    },
+    {
+        "pid": 4029,
+        "name": "Rainbow Six Vegas"
+    },
+    {
+        "pid": 4030,
+        "name": "Rainbow Six Vegas 2"
+    },
+    {
+        "pid": 4170,
+        "name": "Tom Clancy's The Division - Standard Edition"
+    },
+    {
+        "pid": 4173,
+        "name": "Tom Clancy's The Division "
+    },
+    {
+        "pid": 4311,
+        "name": "Far Cry\u00ae 5"
+    },
+    {
+        "pid": 4336,
+        "name": "Steep - Language Pack 1"
+    },
+    {
+        "pid": 4461,
+        "name": "Steep"
+    },
+    {
+        "pid": 4502,
+        "name": "South Park\u2122: The Fractured But Whole\u2122"
+    },
+    {
+        "pid": 4519,
+        "name": "Splinter Cell Double Agent"
+    },
+    {
+        "pid": 4551,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege: Year 2 Pass"
+    },
+    {
+        "pid": 4559,
+        "name": "None"
+    },
+    {
+        "pid": 4662,
+        "name": "Splinter Cell"
+    },
+    {
+        "pid": 4687,
+        "name": "Splinter Cell Chaos Theory"
+    },
+    {
+        "pid": 4699,
+        "name": "Tom Clancy's Endwar"
+    },
+    {
+        "pid": 4735,
+        "name": "Watch_Dogs 2"
+    },
+    {
+        "pid": 4740,
+        "name": "Avatar Frontiers of Pandora\u2122"
+    },
+    {
+        "pid": 4923,
+        "name": "Assassin's Creed\u00ae Origins"
+    },
+    {
+        "pid": 5004,
+        "name": "Tom Clancy's The Division - Trial"
+    },
+    {
+        "pid": 5032,
+        "name": "Tom Clancy's Signature Collection"
+    },
+    {
+        "pid": 5092,
+        "name": "Assassin's Creed\u00ae Odyssey"
+    },
+    {
+        "pid": 5352,
+        "name": "None"
+    },
+    {
+        "pid": 5353,
+        "name": "Deluxe Edition"
+    },
+    {
+        "pid": 5455,
+        "name": "Trials Rising Demo [Steam]"
+    },
+    {
+        "pid": 5900,
+        "name": "None"
+    },
+    {
+        "pid": 5901,
+        "name": "None"
+    },
+    {
+        "pid": 5902,
+        "name": "None"
+    },
+    {
+        "pid": 5904,
+        "name": "None"
+    },
+    {
+        "pid": 5905,
+        "name": "None"
+    },
+    {
+        "pid": 5907,
+        "name": "None"
+    },
+    {
+        "pid": 5909,
+        "name": "None"
+    },
+    {
+        "pid": 5910,
+        "name": "None"
+    },
+    {
+        "pid": 5911,
+        "name": "None"
+    },
+    {
+        "pid": 5912,
+        "name": "None"
+    },
+    {
+        "pid": 5913,
+        "name": "None"
+    },
+    {
+        "pid": 5915,
+        "name": "None"
+    },
+    {
+        "pid": 5916,
+        "name": "None"
+    },
+    {
+        "pid": 5917,
+        "name": "None"
+    },
+    {
+        "pid": 5919,
+        "name": "None"
+    },
+    {
+        "pid": 5920,
+        "name": "None"
+    },
+    {
+        "pid": 6143,
+        "name": "Champions Tactics"
+    },
+    {
+        "pid": 6200,
+        "name": "Star Wars Outlaws - Forest Commando Character Pack"
+    },
+    {
+        "pid": 7080,
+        "name": "None"
+    },
+    {
+        "pid": 7082,
+        "name": "Tom Clancy's Rainbow Six\u00ae Extraction"
+    },
+    {
+        "pid": 8070,
+        "name": "None"
+    },
+    {
+        "pid": 9663,
+        "name": "Captain Laserhawk - The G.A.M.E"
+    },
+    {
+        "pid": 9840,
+        "name": "Avatar: Frontiers of Pandora\u2122 - Season Pass"
+    },
+    {
+        "pid": 9841,
+        "name": "Avatar: Frontiers of Pandora\u2122 - Child of Two Worlds Pack"
+    },
+    {
+        "pid": 10211,
+        "name": "Rainbow Six 3 Gold"
+    },
+    {
+        "pid": 10212,
+        "name": "Ghost Recon"
+    },
+    {
+        "pid": 10315,
+        "name": "Tom Clancy\u2019s Rainbow Six Lockdown"
+    },
+    {
+        "pid": 10381,
+        "name": "Rainbow Six Siege - Standard Edition"
+    },
+    {
+        "pid": 10420,
+        "name": "Rainbow Six Siege - WW - Digital - Uplay - Standard + Gold Edition"
+    },
+    {
+        "pid": 10422,
+        "name": "Ghost Recon Wildlands"
+    },
+    {
+        "pid": 10450,
+        "name": "Assassin's Creed\u00ae Origins - Season Pass"
+    },
+    {
+        "pid": 10512,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege - 1200 Credits Pack"
+    },
+    {
+        "pid": 10804,
+        "name": "Assassin's Creed\u00ae Origins"
+    },
+    {
+        "pid": 10808,
+        "name": "Assassin's Creed\u00ae Origins - Deluxe Edition"
+    },
+    {
+        "pid": 10809,
+        "name": "Assassin's Creed\u00ae Origins - Gold Edition"
+    },
+    {
+        "pid": 10820,
+        "name": "Assassin's Creed\u00ae Origins - Tribal Pack"
+    },
+    {
+        "pid": 10921,
+        "name": "South Park\u2122: The Fractured But Whole\u2122 - Super Streamer Starter Pack"
+    },
+    {
+        "pid": 10983,
+        "name": "South Park\u2122: The Fractured but Whole\u2122"
+    },
+    {
+        "pid": 11079,
+        "name": "Tom Clancy's Rainbow Six\u00ae Siege - Year 3 Pass"
+    },
+    {
+        "pid": 11319,
+        "name": "Happy Playdays Bundle - WW"
+    },
+    {
+        "pid": 11531,
+        "name": "Far Cry\u00ae 5"
+    },
+    {
+        "pid": 11557,
+        "name": "Far Cry\u00ae 5"
+    },
+    {
+        "pid": 11571,
+        "name": "Far Cry\u00ae 5"
+    },
+    {
+        "pid": 11654,
+        "name": "Far Cry\u00ae 5 \u2013 American Muscle Pack"
+    },
+    {
+        "pid": 11761,
+        "name": "Assassin's Creed\u00ae Odyssey - The Blind King"
+    },
+    {
+        "pid": 11764,
+        "name": "Assassin's Creed\u00ae Odyssey"
+    },
+    {
+        "pid": 11777,
+        "name": "Assassin's Creed\u00ae Odyssey"
+    },
+    {
+        "pid": 11864,
+        "name": "Assassin's Creed\u00ae Odyssey - Season Pass"
+    },
+    {
+        "pid": 11908,
+        "name": "The Division\u00ae 2"
+    },
+    {
+        "pid": 11909,
+        "name": "The Division\u00ae 2"
+    },
+    {
+        "pid": 12383,
+        "name": "Anno\u00ae 1800 - Language Pack 4"
+    },
+    {
+        "pid": 12497,
+        "name": "Assassin's Creed\u00ae 3 + Assassin's Creed\u00ae Liberation Remastered"
+    },
+    {
+        "pid": 12677,
+        "name": "Far Cry 4 Remaster - Language Pack 1"
+    },
+    {
+        "pid": 12845,
+        "name": "THE SETTLERS II - Veni, Vidi, Vici History Edition"
+    },
+    {
+        "pid": 12846,
+        "name": "THE SETTLERS III - History Edition"
+    },
+    {
+        "pid": 12847,
+        "name": "THE SETTLERS IV - History Edition"
+    },
+    {
+        "pid": 13049,
+        "name": "None"
+    },
+    {
+        "pid": 13050,
+        "name": "Raymans Legends Demo STEAM - Free Games Page"
+    },
+    {
+        "pid": 13051,
+        "name": "Flashback STEAM - Free Games Page"
+    },
+    {
+        "pid": 13052,
+        "name": "Trials Fusion Demo [STEAM] - Free Games Page"
+    },
+    {
+        "pid": 13116,
+        "name": "Far Cry\u00ae 4"
+    },
+    {
+        "pid": 13417,
+        "name": "Far Cry 3 - Deluxe [STEAM]"
+    },
+    {
+        "pid": 13436,
+        "name": "Assassin's Creed\u00ae Odyssey"
+    },
+    {
+        "pid": 13437,
+        "name": "Assassin's Creed Odyssey - WW - Digital - Uplay - Base Game - Yeti"
+    },
+    {
+        "pid": 14084,
+        "name": "Anno 1800 - Season Pass Player Assets"
+    },
+    {
+        "pid": 14222,
+        "name": "Anno\u00ae 1800 - Base Game"
+    },
+    {
+        "pid": 14586,
+        "name": "Immortals Fenyx Rising - Language Pack 3"
+    },
+    {
+        "pid": 14741,
+        "name": "Rayman Origins"
+    },
+    {
+        "pid": 14910,
+        "name": "Anno\u00ae 1800 - Sunken Treasures DLC"
+    },
+    {
+        "pid": 14911,
+        "name": "Anno\u00ae 1800 - Botanica DLC"
+    },
+    {
+        "pid": 14912,
+        "name": "Anno\u00ae 1800 - The Passage DLC"
+    },
+    {
+        "pid": 15467,
+        "name": "Trials Rising Demo"
+    },
+    {
+        "pid": 15473,
+        "name": "Trials Rising Demo"
+    },
+    {
+        "pid": 16128,
+        "name": "Far Cry Blood Dragon"
+    },
+    {
+        "pid": 16205,
+        "name": "The Division\u00ae 2 - Warlords of New York Expansion"
+    },
+    {
+        "pid": 16733,
+        "name": "The Crew Motorfest"
+    },
+    {
+        "pid": 16763,
+        "name": "Anno 1800 - Season Pass 2 Player Assets"
+    },
+    {
+        "pid": 16820,
+        "name": "None"
+    },
+    {
+        "pid": 16821,
+        "name": "None"
+    },
+    {
+        "pid": 16822,
+        "name": "None"
+    },
+    {
+        "pid": 16823,
+        "name": "None"
+    },
+    {
+        "pid": 16824,
+        "name": "None"
+    },
+    {
+        "pid": 16825,
+        "name": "None"
+    },
+    {
+        "pid": 16826,
+        "name": "None"
+    },
+    {
+        "pid": 16827,
+        "name": "None"
+    },
+    {
+        "pid": 16828,
+        "name": "None"
+    },
+    {
+        "pid": 16891,
+        "name": "Anno\u00ae 1800"
+    },
+    {
+        "pid": 16915,
+        "name": "Assassin's Creed Valhalla"
+    },
+    {
+        "pid": 16921,
+        "name": "Assassin's Creed Valhalla - Season Pass"
+    },
+    {
+        "pid": 16942,
+        "name": "None"
+    },
+    {
+        "pid": 16964,
+        "name": "Assassin's Creed Valhalla - Language Pack 3"
+    },
+    {
+        "pid": 16968,
+        "name": "Assassin's Creed Valhalla - The Way of Berseker"
+    },
+    {
+        "pid": 17010,
+        "name": "Avatar: Frontiers of Pandora - DLC 1"
+    },
+    {
+        "pid": 17285,
+        "name": "Assassin's Creed Valhalla - Standard Edition"
+    },
+    {
+        "pid": 17873,
+        "name": "Assassin's Creed Chronicles China"
+    },
+    {
+        "pid": 58300,
+        "name": "None"
+    },
+    {
+        "pid": 58301,
+        "name": "None"
+    },
+    {
+        "pid": 58302,
+        "name": "None"
+    },
+    {
+        "pid": 58303,
+        "name": "None"
+    },
+    {
+        "pid": 58304,
+        "name": "None"
+    },
+    {
+        "pid": 58305,
+        "name": "Avatar: Frontiers of Pandora\u2122 - Starter Pack"
+    },
+    {
+        "pid": 58831,
+        "name": "Anno 1800 - Docklands DLC"
+    },
+    {
+        "pid": 59343,
+        "name": "Anno 1800 - Tourist Season DLC"
+    },
+    {
+        "pid": 59651,
+        "name": "Anno 1800 - The High Life DLC"
+    },
+    {
+        "pid": 59789,
+        "name": "Ghost Recon Wildlands - Fallen Ghosts"
+    },
+    {
+        "pid": 60661,
+        "name": "Rainbow Six Siege"
+    },
+    {
+        "pid": 60663,
+        "name": "Microsoft Game Pass"
+    },
+    {
+        "pid": 60869,
+        "name": "Anno\u00ae 1800"
+    },
+    {
+        "pid": 61345,
+        "name": "Anno\u00ae 1800 - Seeds of Change"
+    },
+    {
+        "pid": 61435,
+        "name": "For Honor"
+    },
+    {
+        "pid": 61436,
+        "name": "Assassin's Creed Origins"
+    },
+    {
+        "pid": 61437,
+        "name": "Assassin's Creed Odyssey"
+    },
+    {
+        "pid": 61438,
+        "name": "Watch Dogs 2"
+    },
+    {
+        "pid": 61439,
+        "name": "Far Cry 5"
+    },
+    {
+        "pid": 61440,
+        "name": "Ghost Recon Wildlands"
+    },
+    {
+        "pid": 61441,
+        "name": "Immortals Fenyx Rising"
+    },
+    {
+        "pid": 61688,
+        "name": "None"
+    },
+    {
+        "pid": 62259,
+        "name": "Avatar: Frontiers of Pandora\u2122"
+    },
+    {
+        "pid": 62447,
+        "name": "Anno\u00ae 1800 - Complete Edition Year 4"
+    },
+    {
+        "pid": 62471,
+        "name": "Assassin's Creed Valhalla - Ultimate Edition"
+    },
+    {
+        "pid": 62504,
+        "name": "Immortals Fenyx Rising - Gold Edition"
+    },
+    {
+        "pid": 62725,
+        "name": "None"
+    },
+    {
+        "pid": 62785,
+        "name": "Blue - Language Pack 2"
+    },
+    {
+        "pid": 62790,
+        "name": "Avatar: Frontiers of Pandora\u2122"
+    },
+    {
+        "pid": 63059,
+        "name": "Avatar: Frontiers of Pandora - DLC 2"
+    },
+    {
+        "pid": 63060,
+        "name": "Avatar: Frontiers of Pandora\u2122 - Ultimate Pack"
+    },
+    {
+        "pid": 63061,
+        "name": "Avatar: Frontiers of Pandora\u2122 - Digital Art Book"
+    },
+    {
+        "pid": 63119,
+        "name": "Rainbow Six Extraction Demo"
+    },
+    {
+        "pid": 63184,
+        "name": "Far Cry\u00ae 6 - Demo"
+    },
+    {
+        "pid": 63823,
+        "name": "None"
+    },
+    {
+        "pid": 63824,
+        "name": "None"
+    },
+    {
+        "pid": 63825,
+        "name": "None"
+    },
+    {
+        "pid": 63826,
+        "name": "None"
+    },
+    {
+        "pid": 63827,
+        "name": "None"
+    },
+    {
+        "pid": 63828,
+        "name": "None"
+    },
+    {
+        "pid": 63923,
+        "name": "Far Cry 6"
+    },
+    {
+        "pid": 63925,
+        "name": "None"
+    },
+    {
+        "pid": 64016,
+        "name": "Assassin's Creed Valhalla"
+    },
+    {
+        "pid": 64028,
+        "name": "Anno\u00ae 1800"
+    },
+    {
+        "pid": 64326,
+        "name": "The Crew Motorfest - Trial"
+    },
+    {
+        "pid": 64447,
+        "name": "Star Wars Outlaws - Forest Commando"
+    },
+    {
+        "pid": 64448,
+        "name": "Star Wars Outlaws - Forest Commando Character Pack"
+    },
+    {
+        "pid": 64799,
+        "name": "Riders Republic"
+    },
+    {
+        "pid": 64818,
+        "name": "None"
+    },
+    {
+        "pid": 64829,
+        "name": "Champions Tactics"
+    },
+    {
+        "pid": 64932,
+        "name": "Champions Tactics\u2122 Grimoria Chronicles"
+    },
+    {
+        "pid": 64966,
+        "name": "None"
+    },
+    {
+        "pid": 64972,
+        "name": "None"
+    },
+    {
+        "pid": 64982,
+        "name": "Champions Tactics\u2122 Grimoria Chronicles"
+    },
+    {
+        "pid": 64987,
+        "name": "South Park\u00ae: Fractured but Whole - Base Game"
+    },
+    {
+        "pid": 65099,
+        "name": "None"
+    },
+    {
+        "pid": 65100,
+        "name": "None"
+    },
+    {
+        "pid": 65109,
+        "name": "None"
+    },
+    {
+        "pid": 65110,
+        "name": "None"
+    },
+    {
+        "pid": 65111,
+        "name": "None"
+    },
+    {
+        "pid": 65112,
+        "name": "None"
+    },
+    {
+        "pid": 65113,
+        "name": "None"
+    },
+    {
+        "pid": 65114,
+        "name": "None"
+    },
+    {
+        "pid": 65115,
+        "name": "None"
+    },
+    {
+        "pid": 65116,
+        "name": "None"
+    },
+    {
+        "pid": 65129,
+        "name": "None"
+    },
+    {
+        "pid": 65130,
+        "name": "None"
+    },
+    {
+        "pid": 65131,
+        "name": "None"
+    },
+    {
+        "pid": 65132,
+        "name": "Rainbow Six Siege - Y10S1 Signature Pack"
+    },
+    {
+        "pid": 65133,
+        "name": "None"
+    },
+    {
+        "pid": 65134,
+        "name": "None"
+    },
+    {
+        "pid": 65135,
+        "name": "None"
+    },
+    {
+        "pid": 65136,
+        "name": "None"
+    },
+    {
+        "pid": 65137,
+        "name": "None"
+    },
+    {
+        "pid": 65138,
+        "name": "None"
+    },
+    {
+        "pid": 65139,
+        "name": "None"
+    },
+    {
+        "pid": 65140,
+        "name": "None"
+    },
+    {
+        "pid": 65141,
+        "name": "None"
+    },
+    {
+        "pid": 65142,
+        "name": "None"
+    },
+    {
+        "pid": 65159,
+        "name": "None"
+    },
+    {
+        "pid": 65162,
+        "name": "None"
+    },
+    {
+        "pid": 65224,
+        "name": "None"
+    },
+    {
+        "pid": 65225,
+        "name": "None"
+    },
+    {
+        "pid": 65226,
+        "name": "None"
+    },
+    {
+        "pid": 65227,
+        "name": "None"
+    },
+    {
+        "pid": 65228,
+        "name": "None"
+    },
+    {
+        "pid": 65272,
+        "name": "None"
+    },
+    {
+        "pid": 65306,
+        "name": "None"
+    },
+    {
+        "pid": 65308,
+        "name": "m Clancy's The Division 2 - Y6S3 - Clawed Pack"
+    },
+    {
+        "pid": 65309,
+        "name": "om Clancy's The Division 2 - Y6S3 - Burden of Truth Season Pass Bundle"
+    },
+    {
+        "pid": 65310,
+        "name": "None"
+    },
+    {
+        "pid": 65311,
+        "name": "None"
+    },
+    {
+        "pid": 65327,
+        "name": "None"
+    },
+    {
+        "pid": 65328,
+        "name": "None"
+    },
+    {
+        "pid": 65329,
+        "name": "None"
+    },
+    {
+        "pid": 65330,
+        "name": "None"
+    },
+    {
+        "pid": 65331,
+        "name": "None"
+    },
+    {
+        "pid": 65332,
+        "name": "None"
+    },
+    {
+        "pid": 65356,
+        "name": "None"
+    },
+    {
+        "pid": 65357,
+        "name": "None"
+    },
+    {
+        "pid": 65358,
+        "name": "None"
+    },
+    {
+        "pid": 65359,
+        "name": "None"
+    },
+    {
+        "pid": 65360,
+        "name": "None"
+    },
+    {
+        "pid": 65361,
+        "name": "None"
+    },
+    {
+        "pid": 65362,
+        "name": "None"
+    },
+    {
+        "pid": 65363,
+        "name": "None"
+    },
+    {
+        "pid": 65364,
+        "name": "None"
+    },
+    {
+        "pid": 65365,
+        "name": "None"
+    },
+    {
+        "pid": 65366,
+        "name": "None"
+    },
+    {
+        "pid": 65367,
+        "name": "None"
+    },
+    {
+        "pid": 65368,
+        "name": "None"
+    },
+    {
+        "pid": 65369,
+        "name": "None"
+    },
+    {
+        "pid": 65370,
+        "name": "None"
+    },
+    {
+        "pid": 65371,
+        "name": "None"
+    },
+    {
+        "pid": 65372,
+        "name": "None"
+    },
+    {
+        "pid": 65373,
+        "name": "None"
+    },
+    {
+        "pid": 65374,
+        "name": "None"
+    },
+    {
+        "pid": 65375,
+        "name": "None"
+    },
+    {
+        "pid": 65376,
+        "name": "None"
+    },
+    {
+        "pid": 65377,
+        "name": "None"
+    },
+    {
+        "pid": 65442,
+        "name": "Brawlhalla\u00a0- Winter Esports 2025 Pack"
+    },
+    {
+        "pid": 65443,
+        "name": "Brawlhalla\u00a0- Battle Pass Season 11"
+    },
+    {
+        "pid": 65444,
+        "name": "Brawlhalla\u00a0- Deluxe Upgrade Battle Pass 11"
+    },
+    {
+        "pid": 65445,
+        "name": "None"
+    },
+    {
+        "pid": 65446,
+        "name": "None"
+    },
+    {
+        "pid": 65447,
+        "name": "None"
+    },
+    {
+        "pid": 65448,
+        "name": "None"
+    },
+    {
+        "pid": 65449,
+        "name": "None"
+    },
+    {
+        "pid": 65450,
+        "name": "None"
+    },
+    {
+        "pid": 65451,
+        "name": "None"
+    },
+    {
+        "pid": 65452,
+        "name": "None"
+    },
+    {
+        "pid": 65459,
+        "name": "None"
+    },
+    {
+        "pid": 65460,
+        "name": "None"
+    },
+    {
+        "pid": 65552,
+        "name": "None"
+    },
+    {
+        "pid": 65553,
+        "name": "None"
+    },
+    {
+        "pid": 65554,
+        "name": "None"
+    },
+    {
+        "pid": 65555,
+        "name": "None"
+    },
+    {
+        "pid": 65556,
+        "name": "None"
+    },
+    {
+        "pid": 65557,
+        "name": "None"
+    },
+    {
+        "pid": 65558,
+        "name": "None"
+    },
+    {
+        "pid": 65568,
+        "name": "None"
+    },
+    {
+        "pid": 65569,
+        "name": "None"
+    },
+    {
+        "pid": 65585,
+        "name": "Far Cry\u00ae New Dawn - Standard"
+    },
+    {
+        "pid": 65594,
+        "name": "Champions Tactics - Welcome Pack"
+    },
+    {
+        "pid": 65631,
+        "name": "Watch Dogs Legion - Standard Edition"
+    },
+    {
+        "pid": 65686,
+        "name": "Rainbow Six Siege - Test Server"
+    },
+    {
+        "pid": 65709,
+        "name": "Rainbow Six Siege - Closed Beta"
     }
 ]
